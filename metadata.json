@@ -1,0 +1,6 @@
+{
+  "name": "Hate Study - Web App Học Tập & Ghép Nhóm",
+  "description": "Nền tảng học tập nội bộ và đặt lịch học nhóm dành cho học sinh với lịch cá nhân thông minh và giao diện pastel tối giản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
